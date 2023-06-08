@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Willkommen/AndroidStudioProjects/IslaYatay/app/src/main/res/drawable/splash_back.xml" value="0.1" />
+        <entry key="..\:/Users/Willkommen/AndroidStudioProjects/IslaYatay/app/src/main/res/drawable/yatay.xml" value="0.2765" />
+        <entry key="..\:/Users/Willkommen/AndroidStudioProjects/IslaYatay/app/src/main/res/layout/activity_auth.xml" value="0.2" />
+        <entry key="..\:/Users/Willkommen/AndroidStudioProjects/IslaYatay/app/src/main/res/layout/activity_home.xml" value="0.15" />
+        <entry key="..\:/Users/Willkommen/AndroidStudioProjects/IslaYatay/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Willkommen/AndroidStudioProjects/IslaYatay/app/src/main/res/layout/fragment_apphome.xml" value="0.18" />
+        <entry key="..\:/Users/Willkommen/AndroidStudioProjects/IslaYatay/app/src/main/res/layout/fragment_auth.xml" value="0.16197916666666667" />
+        <entry key="..\:/Users/Willkommen/AndroidStudioProjects/IslaYatay/app/src/main/res/layout/fragment_auth2.xml" value="0.1" />
+        <entry key="..\:/Users/Willkommen/AndroidStudioProjects/IslaYatay/app/src/main/res/layout/fragment_cabins.xml" value="0.2046875" />
+        <entry key="..\:/Users/Willkommen/AndroidStudioProjects/IslaYatay/app/src/main/res/layout/fragment_home.xml" value="0.2" />
+        <entry key="..\:/Users/Willkommen/AndroidStudioProjects/IslaYatay/app/src/main/res/layout/fragment_map.xml" value="0.2046875" />
+        <entry key="..\:/Users/Willkommen/AndroidStudioProjects/IslaYatay/app/src/main/res/layout/fragment_register.xml" value="0.2046875" />
+        <entry key="..\:/Users/Willkommen/AndroidStudioProjects/IslaYatay/app/src/main/res/layout/fragment_reserva.xml" value="0.2046875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">IslaYatay</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="como_llegar">Como llegar</string>
+    <string name="reservar">Reservar</string>
+    <string name="prefs_file">com.islayatay.PREFERENCE_FILE_KEY</string>
+    <string name="facebook_app_id">1320054161860192</string>
+    <string name="fb_login_protocol_scheme">fb1320054161860192</string>
+    <string name="facebook_client_token">4985a56d2086d454eeee4457ef420ec9</string>
+
+    <string name="acceder">ACCEDER</string>
+    <string name="registrar">REGISTRAR</string>
+    <string name="pasword">Pasword</string>
+    <string name="email">Email</string>
+
+    <string name="cerrar_sesion">CERRAR SESION</string>
+    <string name="provider">Proveedor</string>
+    <string name="mailTextView">EMAIL</string>
+    <string name="recuperar">RECUPERAR</string>
+    <string name="eliminar">ELIMINAR</string>
+    <string name="guardar">GUARDAR</string>
+    <string name="proveedor">Proveedor</string>
+    <string name="phone">phone</string>
+
+</resources>

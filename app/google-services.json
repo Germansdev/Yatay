@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "421199165103",
+    "project_id": "islayatay",
+    "storage_bucket": "islayatay.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421199165103:android:57fe7dfeec63e548b8465a",
+        "android_client_info": {
+          "package_name": "com.islayatay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "421199165103-i2hsm5o252pgeetl8srlsue6i9s8fvs2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.islayatay",
+            "certificate_hash": "d039a4d6848272604f589de82d0af73c4a5a7024"
+          }
+        },
+        {
+          "client_id": "421199165103-t1j55cko1fopijvlut9m30sbsv5771ch.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNj_wUZ12AfCkX5Vw13t782e72NmGThxU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "421199165103-t1j55cko1fopijvlut9m30sbsv5771ch.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
