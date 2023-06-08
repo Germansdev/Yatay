@@ -5,7 +5,7 @@ import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
-
+private const val TAG: String = "Dev1"
 
 class MapFragment : Fragment() {
 
